@@ -11,7 +11,7 @@ const LoginPage = () => {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>VEGAN</h1>
+      <h1 style={styles.title}>Skin Enchant</h1>
       <div style={styles.formContainer}>
         {isSignIn ? (
           <SignInPage handleToggleForm={handleToggleForm} />
@@ -31,8 +31,7 @@ const styles = {
     justifyContent: 'center',
     height: '100vh',
  
-    
-    backgroundImage: 'url("https://media.istockphoto.com/id/1149801914/photo/facial-body-cosmetic-products-leaves-and-flowers-blossom-on-white-desktop-background-whith.jpg?s=612x612&w=0&k=20&c=VPKLROvVYuwyzjKqESCw4lMbPtZaYIjPo71UhbHg_I4=")', 
+    backgroundImage: `url("https://img.freepik.com/premium-photo/beauty-concept-flat-lay-natural-cosmetic-product-daily-skin-care-pink-background-copy-space_117638-66.jpg")`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
   },
@@ -40,7 +39,7 @@ const styles = {
     fontSize: '45px',
     fontWeight: 'bold',
     fontStyle: 'italic',
-    fontFamily: 'Magneto, Calibri, sans-serif',
+    fontFamily: 'Lucida Sans, Calibri, sans-serif',
     marginBottom: '40px',
   },
   formContainer: {

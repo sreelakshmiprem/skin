@@ -1,0 +1,24 @@
+body {
+    background-color: #f5f3ecb3;
+    
+  }
+  
+  .container {
+    font-family: Verdana, Geneva, sans-serif;
+    padding: 30px;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: left;
+  }
+  
+  .product-item {
+    margin: 10px;
+    text-align: center;
+  }
+  

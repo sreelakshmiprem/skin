@@ -72,7 +72,7 @@ const styles = {
   button: {
     width: '100%',
     height: '30px',
-    backgroundColor: 'lightgreen',
+    backgroundColor: 'grey',
     color: 'white',
     borderRadius: '5px',
     border: 'none',
@@ -85,7 +85,7 @@ const styles = {
   toggleButton: {
     backgroundColor: 'transparent',
     border: 'none',
-    color: 'blue',
+    color: 'grey',
     cursor: 'pointer',
   },
 };

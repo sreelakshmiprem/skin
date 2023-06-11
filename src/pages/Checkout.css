@@ -1,0 +1,80 @@
+.checkout-page {
+    background-color: #f5f3ecb3;
+    padding: 0px;
+  }
+  
+  .section-heading {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .cart-details {
+    margin-bottom: 5px;
+  }
+  
+  .cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .item-image {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    margin-right: 15px;
+    border-radius: 4px;
+  }
+  
+  .item-details {
+    flex: 1;
+  }
+  
+  .item-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .item-price {
+    font-size: 16px;
+  }
+  
+  .total-price {
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .billing-info {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(159, 204, 243);
+    border-radius: 4px;
+  }
+  
+  Button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+  

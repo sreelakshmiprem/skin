@@ -1,0 +1,16 @@
+.bg{
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm28-marble-kung-088-job598.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=1f8bff18c4ea827cecbbb5c3f77e9f66);
+    background-repeat: no-repeat;
+      background-size:cover;
+}
+.bc{
+    margin-right: 10px;
+}
+.hi
+{
+    height:80px;
+    background-color: black;
+    margin-top: 20px;
+    padding-bottom: 100px;
+    border-radius: 15px;
+}
